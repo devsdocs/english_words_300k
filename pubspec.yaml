@@ -1,5 +1,5 @@
 name: english_words_300k
-description: A starting point for Dart libraries or applications.
+description: A Dart package containing over 300,000 English words with a minimum length of 4 letters.
 version: 1.0.0
 repository: https://github.com/devsdocs/english_words_300k
 
